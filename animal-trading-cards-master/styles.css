@@ -1,0 +1,65 @@
+.container {
+  border: 1px solid #ddd;
+  width: 322px;
+  font-size: 10pt;
+  text-align: justify;
+  box-shadow: 5px 5px 2.5px #ddd;
+  margin: 0 auto;
+  background: #b5871b;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 10px;
+}
+
+h3 {
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px 1px #ddd;
+  padding: 5px;
+  margin: 10px;
+  width: 290px;
+  margin-bottom: 6px;
+  background: ghostwhite;
+  border-radius: 5px;
+}
+
+.animal-image {
+  width: 300px;
+  height: 220px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+  margin-bottom: 3px;
+  margin-top: 6px;
+  border-radius: 5px;
+}
+
+.info {
+  border: 1px solid #ddd;
+  width: 300px;
+  margin: 10px;
+  margin-top: 4px;
+  background: moccasin;
+  border-radius: 5px;
+}
+
+.fact {
+  margin: 10px;
+  font-style: italic;
+}
+
+.list-items {
+  margin: 10px;
+  text-align: left;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+.description {
+  margin: 10px;
+}
